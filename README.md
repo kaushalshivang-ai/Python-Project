@@ -40,19 +40,19 @@ To run a Python project file, follow these simple steps:
 <br>
 3.Navigate to Project Directory: Use the cd command to change the directory to the folder containing "contact book.py". 
   <br>
-  For example:
+  --For example:
   <br>
-  cd path/to/your/project/folder
+ -- cd path/to/your/project/folder
 <br>
 4.Run the Python File: Execute the file by typing:
   <br>
-  python "contact book.py"
+  --python "contact book.py"
   <br>
-   or
+   ----or
   <br>
-  python3 "contact book.py"
+  ---python3 "contact book.py"
   <br>
-  (depending on your system configuration)
+ --- (depending on your system configuration)
 <br>
 5.View Output and Interact: The program will start running, and you can follow any prompts or see output directly in the command line window.
 
