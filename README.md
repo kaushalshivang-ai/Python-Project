@@ -33,18 +33,25 @@ The contact book program is a simple, menu-driven application that helps users m
 
 # Steps to install & run the project
 To run a Python project file, follow these simple steps:
+<br>
 1.Ensure Python is Installed: Verify Python is installed on your computer by running python --version or python3 --version in your terminal/command prompt. If not installed, download and install it from python.org.
 <br>
 2.Open Command Prompt or Terminal: Access the command line interface on your system.
 <br>
 3.Navigate to Project Directory: Use the cd command to change the directory to the folder containing "contact book.py". 
+  <br>
   For example:
+  <br>
   cd path/to/your/project/folder
 <br>
 4.Run the Python File: Execute the file by typing:
+  <br>
   python "contact book.py"
+  <br>
          or
+  <br>
   python3 "contact book.py"
+  <br>
   (depending on your system configuration)
 <br>
 5.View Output and Interact: The program will start running, and you can follow any prompts or see output directly in the command line window.
