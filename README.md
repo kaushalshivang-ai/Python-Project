@@ -48,7 +48,7 @@ To run a Python project file, follow these simple steps:
   <br>
   python "contact book.py"
   <br>
-  <br>or
+   or
   <br>
   python3 "contact book.py"
   <br>
