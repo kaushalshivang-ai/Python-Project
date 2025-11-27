@@ -11,3 +11,12 @@ Managing contacts manually using paper-based address books or basic digital note
 1\.College students who need a simple way to manage contacts for classmates, professors, and college-related activities.
 <BR>Beginners in programming who want to practice Python concepts such as file handling, data structures, and user interaction.
 <BR>Individuals looking for a lightweight, easy-to-use digital alternative to traditional paper-based address books.
+
+# High Level Features
+1. Adding a contact by entering name, phone number, and email.
+2. Viewing all saved contacts in a list format.
+3. Searching for a contact by name (case-insensitive).
+4. Deleting a contact by name from the list.
+5. Interactive menu-driven interface for easy navigation.
+6. Continuous running until the user chooses to exit.
+7. Basic in-memory storage without requiring external files or databases.
