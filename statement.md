@@ -8,6 +8,6 @@ Managing contacts manually using paper-based address books or basic digital note
 <br>Allowing easy retrieval of contact information with search functionality by name or other attributes, improving efficiency in managing contacts.
 
 # Target Users
-<br>College students who need a simple way to manage contacts for classmates, professors, and college-related activities.
+1\.College students who need a simple way to manage contacts for classmates, professors, and college-related activities.
 <BR>Beginners in programming who want to practice Python concepts such as file handling, data structures, and user interaction.
 <BR>Individuals looking for a lightweight, easy-to-use digital alternative to traditional paper-based address books.
