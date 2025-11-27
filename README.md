@@ -33,11 +33,12 @@ The contact book program is a simple, menu-driven application that helps users m
 
 # Steps to install & run the project
 To run a Python project file, follow these simple steps:
-1.Install Python 3.0 or above on your system.
-2. Clone this repository.
-3. Open the terminal/command prompt in the folder.
-4. Run the command: main.py
+<br>1. Install Python 3.0 or above on your system.
+<br>2. Clone this repository.
+<br>3. Open the terminal/command prompt in the folder.
+<br>4. Run the command: main.py
 
+# Testing Instruction
 # Made By 
 Shivang Kaushal
 
