@@ -39,6 +39,10 @@ To run a Python project file, follow these simple steps:
 <br>4. Run the command: main.py
 
 # Testing Instruction
+<img width="976" height="589" alt="Output Screenshot1" src="https://github.com/user-attachments/assets/e5dc65a8-a56e-4934-aac3-1ec7d626677a" />
+
+<img width="865" height="351" alt="Output Screenshot2" src="https://github.com/user-attachments/assets/7ee1659b-84a1-4563-b52a-f803af22a4ed" />
+
 # Made By 
 Shivang Kaushal
 
